@@ -29,6 +29,4 @@
 ## 提示
 
 极少数公式可能出现乱码，可能与 AI 输出格式或复制时格式丢失有关，可换一种复制方式重试。
-<img width="1229" height="605" alt="image" src="https://github.com/user-attachments/assets/a1c9d408-51c0-4e24-b3ff-7415c60fc896" />
-<img width="754" height="750" alt="image" src="https://github.com/user-attachments/assets/5a0dd15c-a249-43e4-a8b3-040284d8a2de" />
-
+<img src="https://github.com/user-attachments/assets/a1c9d408-51c0-4e24-b3ff-7415c60fc896" width="48%" alt="AI输出" /> <img src="https://github.com/user-attachments/assets/5a0dd15c-a249-43e4-a8b3-040284d8a2de" width="30%" alt="转换结果" />
