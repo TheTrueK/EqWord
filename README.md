@@ -15,7 +15,7 @@
 
 - [GitHub 下载](https://github.com/TheTrueK/EqWord/releases/latest)
 - [百度网盘下载](https://pan.baidu.com/s/1bCCCEOECBTarMe0T5R0eNA?pwd=gnqm)，提取码：`gnqm`
-
+https://pan.baidu.com/s/1bCCCEOECBTarMe0T5R0eNA?pwd=gnqm
 ## 使用方法
 
 1. 复制需要处理的正文、公式或表格。
